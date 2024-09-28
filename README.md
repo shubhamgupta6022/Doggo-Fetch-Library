@@ -101,9 +101,9 @@ All helper functions are suspend functions, meaning they must be called within a
 
 # Screenshots
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/docs/media_1.jpeg" style="margin: 0 20px;" height="600px">
-  <img src="/docs/media_2.jpeg" style="margin: 0 20px;" height="600px">
-  <img src="/docs/media_3.jpeg" style="margin: 0 20px;" height="600px">
+  <img src="/docs/images/media_1.jpeg" style="margin: 0 20px;" height="600px">
+  <img src="/docs/images/media_2.jpeg" style="margin: 0 20px;" height="600px">
+  <img src="/docs/images/media_3.jpeg" style="margin: 0 20px;" height="600px">
 </div>
 
 
